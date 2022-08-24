@@ -1,0 +1,1 @@
+Imitation of a memory manager on a doubly linked list.

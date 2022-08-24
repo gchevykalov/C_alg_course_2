@@ -1,0 +1,1 @@
+Hash table with open address collision resolution with linear probing sequence.
